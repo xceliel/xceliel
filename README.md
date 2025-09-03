@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+🚀 __About me__
+- 💻 Developer since 2020
+- 💼 Working at Ateky Internet
+- 🌱 I’m currently reviewing some front-end technologies
+
+🛠 &nbsp;__Experience__
+<div>
+  <em>Frontend</em><br><br>
+
+  [![My Skills](https://skillicons.dev/icons?i=css,html,javascript,react,tailwind)](https://skillicons.dev)
+
+  
+  <em>Backend</em><br><br>
+
+  [![My Skills](https://skillicons.dev/icons?i=py,next,flask,mysql)](https://skillicons.dev)
+  
+  <em>Others</em><br><br>
+  [![My Skills](https://skillicons.dev/icons?i=git,bash)](https://skillicons.dev)
+</div>
+
 <!--
 **xceliel/xceliel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
