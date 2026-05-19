@@ -3,7 +3,6 @@
 🚀 __About me__
 - 💻 Developer since 2020
 - 💼 Working at Ateky Internet
-- 🌱 I’m currently reviewing some front-end technologies
 
 🛠 &nbsp;__Experience__
 <div>
