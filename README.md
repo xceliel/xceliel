@@ -9,15 +9,15 @@
 <div>
   <em>Frontend</em><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,javascript,react,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,tailwind)](https://skillicons.dev)
 
   
   <em>Backend</em><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=py,next,flask,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,py,next,flask,mysql,sqlite,ts)](https://skillicons.dev)
   
   <em>Others</em><br><br>
-  [![My Skills](https://skillicons.dev/icons?i=git,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,bash,linux,postman)](https://skillicons.dev)
 </div>
 
 <!--
